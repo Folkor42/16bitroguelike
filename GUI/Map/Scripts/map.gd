@@ -13,6 +13,7 @@ const MAPLINE = preload("res://GUI/Map/mapLine.tscn")
 var cameraEdgeY : float
 
 func _ready():
+	print(MapManager.mapData)
 	cameraEdgeY = MapGenerator.YDIST * (MapGenerator.FLOORS - 1)
 	print(MapManager.floorsClimbed)
 	if MapManager.floorsClimbed == -1:

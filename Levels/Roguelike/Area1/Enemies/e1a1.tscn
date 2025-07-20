@@ -224,7 +224,6 @@ Complete: false"
 
 [node name="LevelTransitionInteract" parent="." instance=ExtResource("22_davbd")]
 position = Vector2(114, 185)
-enter_only = null
 level = "uid://knfoj71gyrhf"
 size = 1
 side = 2

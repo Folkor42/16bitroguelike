@@ -76,7 +76,6 @@ position = Vector2(40, 200)
 
 [node name="LevelTransitionInteract" parent="." instance=ExtResource("11_pt47j")]
 position = Vector2(-81, 114)
-enter_only = null
 level = "uid://knfoj71gyrhf"
 size = 1
 side = 2
