@@ -13,7 +13,7 @@
 [ext_resource type="PackedScene" uid="uid://y1hgbyti4sve" path="res://NPC/NPC.tscn" id="11_0vc5y"]
 [ext_resource type="Resource" uid="uid://b2do7no6jnuj2" path="res://NPC/Resources/npcWarrior.tres" id="12_b1hks"]
 [ext_resource type="PackedScene" uid="uid://bo4nbi66k1j56" path="res://Quests/Utility Nodes/questActivatedSwitch.tscn" id="13_38hhi"]
-[ext_resource type="Resource" uid="uid://cbab4bb8dqd77" path="res://Quests/Scenes/Area1/e1.tres" id="14_cbuaa"]
+[ext_resource type="Resource" uid="uid://cbab4bb8dqd77" path="res://Quests/e1.tres" id="14_cbuaa"]
 [ext_resource type="PackedScene" uid="uid://bye5t66l5ak5c" path="res://Props/Interactables/Dialogue Interaction/dialogueInteraction.tscn" id="15_oievb"]
 [ext_resource type="Resource" uid="uid://8hkerrqbw760" path="res://NPC/npcBigJohnny.tres" id="16_exffj"]
 [ext_resource type="Script" uid="uid://dibm0sw4mb3u8" path="res://Props/Interactables/Dialogue Interaction/Scripts/dialogueText.gd" id="16_l2vwh"]
